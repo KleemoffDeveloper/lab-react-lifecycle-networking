@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lab-react-lifecycle-networking/static/css/main.b84509c3.chunk.css",
+    "main.js": "/lab-react-lifecycle-networking/static/js/main.a7a061f2.chunk.js",
+    "main.js.map": "/lab-react-lifecycle-networking/static/js/main.a7a061f2.chunk.js.map",
+    "runtime-main.js": "/lab-react-lifecycle-networking/static/js/runtime-main.03dcb3f3.js",
+    "runtime-main.js.map": "/lab-react-lifecycle-networking/static/js/runtime-main.03dcb3f3.js.map",
+    "static/js/2.51b03a54.chunk.js": "/lab-react-lifecycle-networking/static/js/2.51b03a54.chunk.js",
+    "static/js/2.51b03a54.chunk.js.map": "/lab-react-lifecycle-networking/static/js/2.51b03a54.chunk.js.map",
+    "index.html": "/lab-react-lifecycle-networking/index.html",
+    "static/css/main.b84509c3.chunk.css.map": "/lab-react-lifecycle-networking/static/css/main.b84509c3.chunk.css.map",
+    "static/js/2.51b03a54.chunk.js.LICENSE.txt": "/lab-react-lifecycle-networking/static/js/2.51b03a54.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03dcb3f3.js",
+    "static/js/2.51b03a54.chunk.js",
+    "static/css/main.b84509c3.chunk.css",
+    "static/js/main.a7a061f2.chunk.js"
+  ]
+}
